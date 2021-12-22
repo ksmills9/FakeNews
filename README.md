@@ -26,7 +26,7 @@ The file structure is the following
 
 1. Clone the repo to your local machine-  
 `> git clone `  
-`> cd directory`
+`> cd FakeNews`
 
 2. Make sure you have all the dependencies installed-  
  * python 3.9.9+
